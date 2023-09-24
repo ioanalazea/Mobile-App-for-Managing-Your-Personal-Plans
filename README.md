@@ -50,5 +50,8 @@ The project structure is organized as follows:
 - screens: The various screens of the app.
 - utils: Utility functions and helper files.
 
+### Acknowledgments
+Special thanks to the Expo and React Native communities for their open-source contributions and documentation.
+
 
 
